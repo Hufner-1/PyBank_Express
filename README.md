@@ -1,8 +1,10 @@
 # PyBank Express
 
        PyBank Express é um sistema bancário simplificado desenvolvido em Python. 
-       Ele permite aos usuários realizar operações básicas, como depósitos, saques, consulta de extrato e sair do sistema.
-       O sistema mantém o controle do saldo da conta, limitando saques e exibindo um extrato das transações realizadas.
+       Ele permite aos usuários realizar operações básicas, como depósitos, saques,
+       consulta de extrato e sair do sistema.
+       O sistema mantém o controle do saldo da conta, limitando saques
+       e exibindo um extrato das transações realizadas.
 
 ## Funcionalidades
 
